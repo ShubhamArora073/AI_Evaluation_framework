@@ -1,0 +1,8 @@
+id,question,context,expected_answer
+TC001,"What is the capital of France?","France is a country in Europe. Its capital city is Paris.","Paris is the capital of France."
+TC002,"What is the capital of India?","India is a country in South Asia. Its capital is New Delhi.","New Delhi is the capital of India."
+TC003,"Who created Python?","Python is a programming language created by Guido van Rossum and first released in 1991.","Guido van Rossum created Python."
+TC004,"What is Kubernetes used for?","Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.","Kubernetes manages containerized applications."
+TC005,"What is the refund period?","Customers can request a refund within 30 days of purchase. The product must be unused and proof of purchase is required.","Refunds can be requested within 30 days if the product is unused and proof of purchase is provided."
+TC006,"Can customers get a refund after 60 days?","Customers can request a refund within 30 days of purchase. The product must be unused and proof of purchase is required.","The policy does not allow a refund request after 60 days."
+TC007,"What are the office working hours?","The office is open Monday to Friday, from 9 AM to 5 PM.","The office is open from 9 AM to 5 PM, Monday to Friday."
